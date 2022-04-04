@@ -1,0 +1,64 @@
+{
+  "Students": [
+    {
+      "id": 86056,
+      "CourseName": "phd ",
+      "InstituteName": "veltech ",
+      "CourseId": "1000",
+      "InstituteId": "1000",
+      "CourseDescription": "software ",
+      "CourseDuration": "0",
+      "AcademicYear": "2022"
+    },
+    {
+      "id": 79926,
+      "CourseName": "cyber security",
+      "InstituteName": "VIT",
+      "CourseId": "",
+      "InstituteId": "1245",
+      "CourseDescription": "Firewall ",
+      "CourseDuration": "14",
+      "AcademicYear": "2015"
+    },
+    {
+      "id": 20988,
+      "CourseName": "law",
+      "InstituteName": "srm",
+      "CourseId": "",
+      "InstituteId": "15896",
+      "CourseDuration": "law phd",
+      "CourseDescription": "law desp",
+      "AcademicYear": "5896"
+    },
+    {
+      "id": 12276,
+      "CourseName": "phd in cse",
+      "InstituteName": "veltech",
+      "CourseId": "",
+      "InstituteId": "1452",
+      "CourseDuration": "2",
+      "CourseDescription": "software",
+      "AcademicYear": "2015"
+    },
+    {
+      "id": 72086,
+      "CourseName": "ghtyuj",
+      "InstituteName": "veltech",
+      "CourseId": "",
+      "InstituteId": "1452",
+      "CourseDuration": "12",
+      "CourseDescription": "wner wx",
+      "AcademicYear": "2022"
+    },
+    {
+      "id": 48162,
+      "CourseName": "fgtrejkiol",
+      "InstituteName": "ggnew",
+      "CourseId": "",
+      "InstituteId": "147859636",
+      "CourseDuration": "48",
+      "CourseDescription": "dertg",
+      "AcademicYear": "qwert"
+    }
+  ]
+}
